@@ -1,9 +1,13 @@
+.copied li{
+  background-color: blue;
+}
+
+ul {
+  display: inline-block;
+}
 li {
   color: orange;
   font-family: Cambria;
-  font-size: 23;
-}
-
-.copied li{
-  background-color: blue;
+  float: left;
+  clear: left;
 }
