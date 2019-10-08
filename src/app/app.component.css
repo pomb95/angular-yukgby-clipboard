@@ -1,11 +1,12 @@
 .copied li{
-  background-color: blue;
+  background-color: rgb(10, 142, 250);
 }
 
 ul {
   display: inline-block;
 }
 li {
+  list-style-type: none;
   color: orange;
   font-family: Cambria;
   float: left;
